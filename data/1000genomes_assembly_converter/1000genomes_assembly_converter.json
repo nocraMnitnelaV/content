@@ -1,6 +1,6 @@
 {
  "name": "1000Genomes assembly converter",
- "description": "Desc",
+ "description": "Descg",
  "homepage": "http://browser.1000genomes.org/tools.html",
  "biotoolsID": "1000genomes_assembly_converter",
  "biotoolsCURIE": "biotools:1000genomes_assembly_converter",

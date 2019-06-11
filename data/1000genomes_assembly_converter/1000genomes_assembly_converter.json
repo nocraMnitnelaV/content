@@ -1,7 +1,7 @@
 {
  "name": "1000Genomes assembly converter",
  "description": "A Deep Catalog of Human Genetic Variation.",
- "homepage": "http://browser.1000genomes.org/tools.html",
+ "homepage": "http://phase3browser.1000genomes.org/tools.html",
  "biotoolsID": "1000genomes_assembly_converter",
  "biotoolsCURIE": "biotools:1000genomes_assembly_converter",
  "version": [

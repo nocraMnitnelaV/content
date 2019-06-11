@@ -5,7 +5,7 @@
  "biotoolsID": "1000genomes_assembly_converter",
  "biotoolsCURIE": "biotools:1000genomes_assembly_converter",
  "version": [
-  "1"
+  "2"
  ],
  "otherID": [],
  "function": [
